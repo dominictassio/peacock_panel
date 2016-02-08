@@ -1,0 +1,7 @@
+[package]
+name = "r_panel"
+version = "0.1.0"
+authors = ["Dominic Tassio <dominic.tassio@gmail.com>"]
+
+[dependencies]
+time = "0.1"
